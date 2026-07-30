@@ -29,7 +29,7 @@ Building intelligent applications with Machine Learning, Computer Vision, and mo
 
 🎓 **B.E. Computer Science Engineering (Artificial Intelligence & Machine Learning)**
 
-🏫 **<Your College Name>**
+🏫 **Vel Tech High Tech Dr.Rangarajan Dr.Sakunthala Engineering College (An Autonomous Institution)**
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, and intelligent systems.
 
@@ -45,6 +45,19 @@ Building intelligent applications with Machine Learning, Computer Vision, and mo
 - 🗣️ Small Language Models (SLMs)
 - 👁️ Multimodal AI
 - 🌐 Internet of Things (IoT)
+
+## Currently Exploring
+
+- [x] Computer Vision
+- [x] AI Agents
+- [x] Edge AI
+- [x] Small Language Models (SLMs)
+- [x] Multimodal AI
+- [x] Internet of Things (IoT)
+
+## Currently Exploring
+
+> Computer Vision • AI Agents • Edge AI • Small Language Models (SLMs) • Multimodal AI • Internet of Things (IoT)
 
 ---
 
