@@ -25,7 +25,7 @@ Building intelligent applications with Machine Learning, Computer Vision, and mo
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 🎓 **B.E. Computer Science Engineering (Artificial Intelligence & Machine Learning)**
 
@@ -38,7 +38,7 @@ Building intelligent applications with Machine Learning, Computer Vision, and mo
 ---
 
 
-# Currently Exploring
+## Currently Exploring
 
 > Computer Vision • AI Agents • Edge AI • Small Language Models (SLMs) • Multimodal AI • Internet of Things (IoT)
 
