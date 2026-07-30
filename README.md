@@ -37,25 +37,8 @@ Building intelligent applications with Machine Learning, Computer Vision, and mo
 
 ---
 
-# 🔭 Currently Exploring
 
-- 🧠 Computer Vision
-- 🤖 AI Agents
-- 📱 Edge AI
-- 🗣️ Small Language Models (SLMs)
-- 👁️ Multimodal AI
-- 🌐 Internet of Things (IoT)
-
-## Currently Exploring
-
-- [x] Computer Vision
-- [x] AI Agents
-- [x] Edge AI
-- [x] Small Language Models (SLMs)
-- [x] Multimodal AI
-- [x] Internet of Things (IoT)
-
-## Currently Exploring
+# Currently Exploring
 
 > Computer Vision • AI Agents • Edge AI • Small Language Models (SLMs) • Multimodal AI • Internet of Things (IoT)
 
